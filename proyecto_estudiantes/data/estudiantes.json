@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "nombre": "Nathaly Sofia",
+        "apellido": "Mora Carrasco",
+        "email": "SofiaNat@gmail.com",
+        "carnet": "EST2026003",
+        "notas": {
+            "Matematica": [
+                20.0
+            ]
+        },
+        "materias": [
+            "Matematica"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Michael Steven",
+        "apellido": "Mora Carrasco",
+        "email": "maikolstven@gmail.com",
+        "carnet": "EST2026001",
+        "notas": {},
+        "materias": []
+    }
+]
